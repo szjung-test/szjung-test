@@ -32,7 +32,7 @@
   
   <br/><br/>
 
-  [!szjung's github stats](https://github-readme-stats.vercel.app/api?username=szjung-test)](https://github.com/szjung-test/github-readme-stats)
+  ![szjung-test's github stats](https://github-readme-stats.vercel.app/api?username=szjung-test)](https://github.com/szjung-test/github-readme-stats)
 
  <div align=right>
 	
