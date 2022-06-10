@@ -22,6 +22,8 @@
 
 <br/>
 
+<a href="https://instagram.com/yo.o.park"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+
   <a href="https://github.com/szjung-test/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szjung-test&layout=compact&theme=dracula" />
   </a>
@@ -32,7 +34,7 @@
 
  <div align=right>
 	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszjung-test&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/szjung-test/)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszjung-test&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://velog.io/@szjung-test/)
 	
   </div>
   <br>
