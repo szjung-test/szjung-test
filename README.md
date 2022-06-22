@@ -22,7 +22,7 @@
 
 <br/>
 
-<a href="https://instagram.com/yo.o.park"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/funzz.s"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 
 <div align=center>
 	
