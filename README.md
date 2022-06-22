@@ -35,12 +35,13 @@
 ![szjung's Commit Graph](https://activity-graph.herokuapp.com/graph?username=szjung-test&bg_color=FDF6E3&color=489CD5&line=489CD5&point=859900&area_color=489CD5&area=true&custom_title=%20SZJung`s%20Commit%20Graph)
 	
 </div>
-	
 
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszjung-test%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszjung-test%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 	
   </div>
+  
  </div>
+ 
 </div>
 
