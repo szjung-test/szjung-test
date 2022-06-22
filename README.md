@@ -32,8 +32,7 @@
 
   ![szjung-test's github stats](https://github-readme-stats.vercel.app/api?username=szjung-test)
 
- <div align=right>
-https://activity-graph.herokuapp.com/graph?username=szjung-test&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph
+<a href="http://www.github.com/szjung-test"><img src="https://activity-graph.herokuapp.com/graph?username=szjung-test&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszjung-test&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://velog.io/@szjung-test/)
 	
